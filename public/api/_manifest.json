@@ -1,0 +1,51 @@
+{
+  "project": "中国股市编年史 · History of China Market",
+  "last_updated": "2026-05-20",
+  "indices": [
+    {
+      "slug": "shanghai",
+      "name": "上证综指",
+      "code": "000001"
+    },
+    {
+      "slug": "hs300",
+      "name": "沪深300",
+      "code": "000300"
+    },
+    {
+      "slug": "gem",
+      "name": "创业板指",
+      "code": "399006"
+    },
+    {
+      "slug": "sse50",
+      "name": "上证50",
+      "code": "000016"
+    },
+    {
+      "slug": "star50",
+      "name": "科创50",
+      "code": "000688"
+    },
+    {
+      "slug": "csi500",
+      "name": "中证500",
+      "code": "000905"
+    },
+    {
+      "slug": "hsi",
+      "name": "恒生指数",
+      "code": "HSI"
+    },
+    {
+      "slug": "hstech",
+      "name": "恒生科技",
+      "code": "HSTECH"
+    },
+    {
+      "slug": "hscei",
+      "name": "恒生国企",
+      "code": "HSCEI"
+    }
+  ]
+}
